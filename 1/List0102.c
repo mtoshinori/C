@@ -1,5 +1,5 @@
 /*サンプルプログラム int main(int argc, char const *argv[]) {
-	作成者：村尾　作成日：2018年8月5日*/
+	作成者：〇〇森森 　　作成日：2018年8月5日*/
 #include <stdio.h>
 
 // mainブロック
