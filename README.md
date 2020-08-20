@@ -1,10 +1,26 @@
-# はじめに
-C言語の学習を始めました。
-今までJAVAをメインに学習していましたが、
-Ｃ言語ではポインタなどを重点的に学びます。
+Name
+====
+This is a learning folder for c language.
+It is composed of 1, 2 and 3.
+Overview
 
-# フォルダについて
-Ⅰは基本構文 
-Ⅱは応用1（構造体、配列、関数）
-Ⅲは応用2(アドレスとポインタ、メモリアクセス、文字列操作)
+## Description
+
+## Demo
+
+## VS. 
+
+## Requirement
+
+## Usage
+
+## Install
+
+## Contribution
+
+## Licence
+
+
+
+## Author
 
