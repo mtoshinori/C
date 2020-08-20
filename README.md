@@ -1,7 +1,7 @@
 C.learn
 ====
 This is a learning folder for c language.
-It is composed of 1, 2 and 3.
+It is composed of Ⅰ, Ⅱ and Ⅲ.
 
 ## Description
 
@@ -10,6 +10,8 @@ It is composed of 1, 2 and 3.
 ## VS. 
 
 ## Requirement
+-Ubuntu
+-C
 
 ## Usage
 
