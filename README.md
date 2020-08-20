@@ -10,7 +10,7 @@ It is composed of Ⅰ, Ⅱ and Ⅲ.
 ## VS. 
 
 ## Requirement
--Ubuntu
+-Ubuntu,
 -C
 
 ## Usage
